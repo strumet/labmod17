@@ -4,7 +4,7 @@ In questa cartella sono raccolte le immagini relative agli oggetti scelti dagli 
 per la realizzazione del rendering relativo all'esercitazione EX1.
 
 Ogni studente deve caricare **una sola immagine fotografica** dell'oggetto scelto
-sufficientemente esplicativa della geometria dell'oggetto e non eccessivamente pesante
+sufficientemente esplicativa della sua geometria e non eccessivamente pesante
 (si raccomanda di **non superare la dimensione di 1MB**).
 
 Il file caricato deve essere in formato *.jpg* o *.png*.  

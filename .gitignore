@@ -1,0 +1,5 @@
+ex1/render
+archive/*
+!archive/README.md
+*.orig
+*.bak

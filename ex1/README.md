@@ -24,7 +24,7 @@ o meno l'adeguatezza della scelta. Nel caso in cui l'oggetto scelto sia troppo
 difficile o troppo facile da modellare sarà possibile proporre al docente una
 nuova ipotesi di lavoro.   
 Per sottoporre la propria scelta al docente è necessario **aggiungere un'immagine
-dell'oggetto all'interno della cartella *obj*** della propria copia
+dell'oggetto all'interno della cartella *obj** * della propria copia
 del *repository* del corso ed effettuare una richiesta di *merging* (*pull request*).   
 Maggiori dettagli sul caricamento dell'immagine sono riportati nel file *README.md* della
 cartella *obj*
@@ -36,10 +36,15 @@ proprio repository dedicato**.
 Al fine di facilitare la condivisione dei saperi ed agevolare reciprocamente il lavoro
 tra colleghi si invitano gli studenti a **pubblicare spesso e rapidamente gli avanzamenti
 della propria elaborazione: si permetterà così ai colleghi di vedere, studiare,
-copiare quanto di positivo viene prodotto dall'intera classe durante il corso**.
+copiare quanto di positivo viene prodotto dall'intera classe durante il corso**.   
+La pubblicazione frequente e costante degli aggiornamenti del proprio lavoro
+**costituirà un elemento di giudizio positivo in fase di valutazione** e
+sarà riconosciuta con **un incremento del voto finale**.
+
 
 ### Consegna finale
-La consegna finale consiste nella **pubblicazione all'interno della cartella *render*
+**La consegna finale è prevista per le 23:59 del 18 ottobre 2017** e consiste nella
+**pubblicazione all'interno della cartella *render*
 del repository del corso di un *clay rendering* con rappresentazione del wireframe
 del modello**.  
 Insieme al modello dovrà essere realizzato **un semplice tutorial

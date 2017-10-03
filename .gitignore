@@ -4,3 +4,5 @@ archive/*
 *.orig
 *.bak
 .DS_Store
+ex1/obj/Thumbs.db
+*.jpg

@@ -3,3 +3,5 @@ archive/*
 !archive/README.md
 *.orig
 *.bak
+ex1/.DS_Store
+.DS_Store

@@ -1,2 +1,7 @@
-
-ex1/obj/870757.jpeg
+ex1/render
+archive/*
+!archive/README.md
+*.orig
+*.bak
+.DS_Store
+Thumbs.db

@@ -50,8 +50,8 @@ del modello**.
 Insieme al modello dovrà essere realizzato **un semplice tutorial
 per immagini **(no video)** che illustri la procedura utilizzata per la realizzazione
 del modello**.   
-Maggiori dettagli sul caricamento del lavoro prodotto saranno riportati 
-all'interno della cartella *render* (presto online)
+Maggiori dettagli sul caricamento del lavoro prodotto sono riportati 
+all'interno della cartella *rendering*
 
 ## Superamento della prova
 Per superare positivamente la prova è necessario che:

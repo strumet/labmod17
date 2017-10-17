@@ -24,7 +24,7 @@ o meno l'adeguatezza della scelta. Nel caso in cui l'oggetto scelto sia troppo
 difficile o troppo facile da modellare sarà possibile proporre al docente una
 nuova ipotesi di lavoro.   
 Per sottoporre la propria scelta al docente è necessario **aggiungere un'immagine
-dell'oggetto all'interno della cartella *obj** * della propria copia
+dell'oggetto all'interno della cartella "obj"** della propria copia
 del *repository* del corso ed effettuare una richiesta di *merging* (*pull request*).   
 Maggiori dettagli sul caricamento dell'immagine sono riportati nel file *README.md* della
 cartella *obj*

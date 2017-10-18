@@ -4,3 +4,4 @@ archive/*
 *.orig
 *.bak
 .DS_Store
+rendering/Tutorial.rtf

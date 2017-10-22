@@ -1,1 +1,0 @@
-Non ho potuto fare il rendering inquanto il pc si blocca quando arrivo alla fase di assegnazione dei materiali al modello/shape/box.

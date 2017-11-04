@@ -44,7 +44,7 @@ sarà riconosciuta con **un incremento del voto finale**.
 
 ### Consegna finale
 **La consegna finale è prevista per le 23:59 del 18 ottobre 2017** e consiste nella
-**pubblicazione all'interno della cartella *render*
+**pubblicazione all'interno della cartella *rendering*
 del repository del corso di un *clay rendering* con rappresentazione del wireframe
 del modello**.  
 Insieme al modello dovrà essere realizzato **un semplice tutorial

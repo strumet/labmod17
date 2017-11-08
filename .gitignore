@@ -1,8 +1,8 @@
-ex1/render
+*.swp
 archive/*
 !archive/README.md
 *.orig
 *.bak
 .DS_Store
-ex1/obj/Thumbs.db
-*.jpg
+Thumbs.db
+

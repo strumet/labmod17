@@ -1,15 +1,1 @@
-https://github.com/AriannaMene/labmod17_ex1.wiki.git
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://github.com/AriannaMene/labmod17_ex1/wiki

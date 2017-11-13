@@ -24,10 +24,10 @@ o meno l'adeguatezza della scelta. Nel caso in cui l'oggetto scelto sia troppo
 difficile o troppo facile da modellare sarà possibile proporre al docente una
 nuova ipotesi di lavoro.   
 Per sottoporre la propria scelta al docente è necessario **aggiungere un'immagine
-dell'oggetto all'interno della cartella "obj"** della propria copia
+dell'oggetto all'interno della cartella "ex1/obj"** della propria copia
 del *repository* del corso ed effettuare una richiesta di *merging* (*pull request*).   
 Maggiori dettagli sul caricamento dell'immagine sono riportati nel file *README.md* della
-cartella *obj*
+cartella *ex1/obj*
 
 ### Avanzamento del lavoro
 Una volta stabilito quale oggetto dovrà essere rappresentato è possibile iniziare
@@ -44,14 +44,14 @@ sarà riconosciuta con **un incremento del voto finale**.
 
 ### Consegna finale
 **La consegna finale è prevista per le 23:59 del 18 ottobre 2017** e consiste nella
-**pubblicazione all'interno della cartella *render*
+**pubblicazione all'interno della cartella *ex1/rendering*
 del repository del corso di un *clay rendering* con rappresentazione del wireframe
 del modello**.  
 Insieme al modello dovrà essere realizzato **un semplice tutorial
 per immagini **(no video)** che illustri la procedura utilizzata per la realizzazione
 del modello**.   
-Maggiori dettagli sul caricamento del lavoro prodotto saranno riportati 
-all'interno della cartella *render* (presto online)
+Maggiori dettagli sul caricamento del lavoro prodotto sono riportati 
+all'interno della cartella *ex1/rendering*
 
 ## Superamento della prova
 Per superare positivamente la prova è necessario che:

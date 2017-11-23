@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 Sedia Norraryd
 Numero articolo: 802.730.96
 http://www.ikea.com/it/it/catalog/products/80273096/
-=======
-STOCKHOLM Tavolino 
-Numero articolo: 302.397.12
-http://www.ikea.com/it/it/catalog/products/30239712/
->>>>>>> 30ed809da2a214fce54222e335c5ade0bea3e434

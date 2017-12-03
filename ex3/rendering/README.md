@@ -12,7 +12,7 @@ E' utile precisare che:
 * il piano di sezione da usare per la sezione assonometrica dei due elementi dovrà coincidere con il piano di simmetria dell'oggetto
 * il progetto dell'ambiente bagno può essere sviluppato liberamente: ogni studente è libero pertanto di organizzare lo spazio secondo i propri criteri compositivi ed inserendo tutti gli elementi utili a descrivere lo spazio progettato (pareti, serramenti, altri sanitari, rivestimenti, complementi d'arredo...). Ogni studente può **utilizzare, modificare ed adattare liberamente componenti già realizzati da altri colleghi** per la realizzazione del proprio modello
 
-I due elementi rappresentati nelle prime due tavole **dovranno essere rappresentati con il wireframe applicato su un unico materiale bianco opaco** (cosiddetto *clay render*). La volumetria dell'oggetto deve essere suggerita attraverso l'utilizzo di metodi di **ambient occlusion**.
+I due elementi rappresentati nelle prime due tavole **dovranno essere rappresentati con il wireframe applicato su un unico materiale bianco opaco** (cosiddetto *clay render*). La volumetria dell'oggetto deve essere suggerita attraverso l'utilizzo di metodi di **ambient occlusion**.   
 Per la terza tavola è possibile **limitare la resa volumetrica al solo utilizzo dell'_ambient occlusion_** (ogni studente è comunque libero di arricchire i propri rendering attraverso l'aggiunta del wireframe)
 
 Le tavole prodotte dovranno essere in **formato .png, di dimensioni 3508x2480 pixel, orientate orizzontalmente o verticalmente**. Le tavole costituite da più visualizzazioni potranno essere **composte attraverso un montaggio in programmi di editing raster**.

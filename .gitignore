@@ -1,8 +1,7 @@
-*.swp
+ex1/render
 archive/*
 !archive/README.md
 *.orig
 *.bak
 .DS_Store
 Thumbs.db
-

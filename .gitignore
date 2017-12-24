@@ -1,4 +1,4 @@
-ex1/render
+*.swp
 archive/*
 !archive/README.md
 *.orig

@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Duravit, Vero Air bathtub, https://www.duravit.com/products/all_series/vero.com-en.html#article-1410098220468
 Duravit, Vero Air washbasin, https://www.duravit.com/products/all_series/vero.com-en.html#article-1410097978503
+=======
+Flaminia, Vasca Wash170, http://www.ceramicaflaminia.it/it/products/328-wash/filter/39-vasche-e-sistemi-doccia
+Cielo, Lavabi da appoggio40x40 Shui Comfort, http://www.ceramicacielo.it/it/sanitari/lavabo-da-appoggio-SHCOLAT40
+>>>>>>> 99b1977... Nuova proposta vasca

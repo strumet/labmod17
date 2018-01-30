@@ -1,0 +1,24 @@
+Componente n.1: ELEMENTO PORTANTE
+L'elemento in considerazione è un rettangolo, scomponibile in 6 quadrati, ma con 7 doppie fessure per i chiodi equidistanti
+tra di loro.
+Partendo da un PIANO con le dimensioni di un singolo quadrato (derivato dalla scomposizione del rettangolo), ho inserito degli 
+SWIFT LOOP alle estremità in modo tale da mantenere la forma quando viene applicato il turbosmooth. Successivamente, sempre con il
+comando SWIFT LOOP ho definito la posizione dei fori da creare (quadrato) e forato il piano.
+Con il comando INSERT VERTEX ho inserito 4 punti a metà dei lati del quadrato e poi con il comando SCALA li ho aggiustati per
+ottenere la forma finale di un ottagono.
+Ho applicato la SIMMETRY sull'oggetto: ora ho un piano con due fori di forma ottagonale con la stessa distanza dall'asse centrale,
+quindi ho un modulo da ripetere 6 volte + 1 (settima fila di fori) per comporre l'elemento rettangolo.
+Per unire i 6 quadrati ho creato delle copie e le ho unite tramite gli snap, per renderli poi un solo elemento ho usato il comando
+ATTACH. Per la settima fila di fori ho unito ancora un quadrato ma ridimensionato, mantenendo solo la parte con i fori.
+Ho ottenuto il rettangolo forato da 7 coppie di buchi. Per renderlo tridimensionale
+
+Componenti n.2: MENSOLE
+La lunghezza delle mensole è la stessa dell'elemento portante e presenta gli stessi fori: creo una copia del file "Elemento
+portante" per mantenere misure e fori. Ritorno ad avere un solo modulo quadrato forato e lo modifico in modo da avere i fori
+centrati rispetto all'altezza della mensola. Ottengo la forma bidimensionale forata.
+Per renderla tridimensionale
+
+Componente n.3: PIASTRA
+Componente n.4:104323 (vite lunga)
+Componente n.5:109053 (vite corta)
+Componente n.6:100001 

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+TARENDO; S99000483; http://www.ikea.com/it/it/catalog/products/S99000483/
+=======
 TARENDO S99000483 http://www.ikea.com/it/it/catalog/products/S99000483/
+>>>>>>> 5e4c757a3a959ca06c26585402879116b5fad81a

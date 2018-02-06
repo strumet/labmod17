@@ -1,5 +1,5 @@
 ﻿GLOBO; Lavabo Cod. LAT41.BI; http://www.ceramicaglobo.com/tipologie/lavabi-da-appoggio/lavabi-d-arredo/LAT41-BI
-GLOBO; Vasca Cod. VABOCA; http://www.ceramicaglobo.com/tipologie/vasche/vasche/VABOCA
+FLAMINIA; Fontana; http://www.ceramicaflaminia.it/it/products/290-fonte-fontana/filter/39-vasche-e-sistemi-doccia
 
 
 

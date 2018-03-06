@@ -1,1 +1,5 @@
 https://github.com/liviaaccolla95/labmod17_ex1/wiki
+<<<<<<< HEAD
+
+=======
+>>>>>>> 4d31727bbfdfeb854a1862a4c6e0779c04b656b8
